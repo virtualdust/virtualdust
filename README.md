@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @virtualdust
 - 👀 I’m interested in coding, games, sports, comedy
 - 🌱 I’m currently learning go, docker, k8s
-- 💞️ I’m looking to collaborate on individual games developing
+- 💞️ I’m looking to collaborate on individual games development
 - 📫 How to reach me ylvis1024@outlook.com
 
 <!---
